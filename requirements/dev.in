@@ -1,0 +1,8 @@
+-c pins.txt
+-c requirements.txt
+-r requirements.txt
+
+pip-tools
+pre-commit
+flake8
+coverage
